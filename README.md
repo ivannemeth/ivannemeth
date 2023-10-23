@@ -10,7 +10,7 @@
 - My favourite country: Thailand
 - My favourite food: curry
 
-`https://github.com/sindresorhus/sindresorhus.git`
+- [gif](https://github.com/sindresorhus/sindresorhus.git)
 <!--
 **ivannemeth/ivannemeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
