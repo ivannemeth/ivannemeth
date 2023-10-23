@@ -2,6 +2,8 @@
 
 ### I am currently learning to code. In my free time I teach yoga. I am based in Berlin.
 
+![beach](https://www.gohawaii.com/sites/default/files/hero-unit-images/11500_mauibeaches.jpg)
+
 <!--
 **ivannemeth/ivannemeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
